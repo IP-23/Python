@@ -1,0 +1,9 @@
+Invest  ООО   10000   5000
+Bars  ЗАО   8000   8000
+Tochinvest   ОАО   10000   15000
+Teplopribor   АО   12000   6000
+Stata   ИП   9000   4500
+Premier   ЗАО   10000   9000
+Youth   ООО   8000   12000
+Rainbow   ИП   10000   10500
+[{"Invest": 5000, "Bars": 0, "Teplopribor": 6000, "Stata": 4500, "Premier": 1000}, {"average_profit": 3300.0}][{"Invest": 3300, "Bars": 0, "Teplopribor": 6000, "Stata": 4500, "Premier": 1000}, {"average_profit": 2960.0}][{"Invest": 2960, "Bars": 0, "Teplopribor": 6000, "Stata": 4500, "Premier": 1000}, {"average_profit": 2892.0}]
